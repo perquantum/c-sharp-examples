@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\Lenovo\source\repos\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Lenovo\source\repos\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Lenovo\source\repos\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\Lenovo\source\repos\FirstApp\obj\Debug\FirstApp.pdb
